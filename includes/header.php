@@ -38,6 +38,12 @@
         <link rel="stylesheet" type="text/css" href="assets/css/responsive.css">
         <link rel="stylesheet" type="text/css" href="assets/css/menu.css">
         <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css">
+        <link rel="stylesheet" type="text/css" href="/assets/css/new.css">
+        <style>
+.logo-img {
+		width: 186px;
+}
+		</style>
         <!--[if lt IE 9]>
             <script src="https://oss.maxcdn.com/html5shiv/3.7.2/html5shiv.min.js"></script>
             <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
@@ -70,22 +76,24 @@
                                        </li>
                                        <li>
                                            <i class="flaticon-call"></i>
-                                           <a href="tel:+91 1234567890"> +91 1234567890</a>
+                                           <a href="tel:+917790847091"> +91 7790847091</a>
                                        </li>
                                        <li>
                                            <i class="flaticon-location"></i>
-                                           05 kandi BR. New York
+                                            48, Sultan Nagar, Jaipur, Rajasthan 302019
                                        </li>
                                    </ul>
                                </div>
                                <div class="col-lg-4 text-right">
                                    <div class="toolbar-sl-share">
                                        <ul>
-                                            <li class="opening"> <em><i class="flaticon-clock"></i> 08:00am-6:00pm</em> </li>
-                                            <li><a href="#"><i class="fa fa-facebook"></i></a></li>
-                                            <li><a href="#"><i class="fa fa-twitter"></i></a></li>
-                                            <li><a href="#"><i class="fa fa-pinterest-p"></i></a></li>
-                                            <li><a href="#"><i class="fa fa-instagram"></i></a></li>
+                                            <li class="opening"> <em><i class="flaticon-clock"></i> 08:00am-9:00pm</em> </li>
+                                            <li><a href="https://www.facebook.com/GrootSoftware/" target="_blank"><i class="fa fa-facebook"></i></a></li>
+                                            <li><a href="https://twitter.com/grootsoftwa" target="_blank"><i class="fa fa-twitter"></i></a></li>
+                                            <li><a href="https://github.com/grootsoftware" target="_blank"><i class="fa fa-git"></i></a></li>
+                                            <li><a href="https://www.instagram.com/grootsoftware/" target="_blank"><i class="fa fa-instagram"></i></a></li>
+                                            <li><a href="https://www.linkedin.com/in/grootsoftware/" target="_blank"><i class="fa fa-linkedin"></i></a></li>
+                                            <li><a href="https://stackoverflow.com/c/grootsoftware/" target="_blank"><i class="fa fa-stack-overflow"></i></a></li>
                                        </ul>
                                    </div>
                                </div>
@@ -96,7 +104,7 @@
                     <!-- Menu Start -->
                     <nav class = "rizwan">
                         <div class = "brand-and-icon">
-                          <a href = "index.php" class = "navbar-brand"><img src="assets/images/logo-dark.png" /></a>
+                          <a href = "index.php" class = "navbar-brand"><img class="logo-img" src="assets/images/logo-dark.png" /></a>
                           <button type = "button" class = "navbar-toggler">
                             <i class = "fas fa-bars"></i>
                           </button>

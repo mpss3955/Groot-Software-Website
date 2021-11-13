@@ -10105,3 +10105,8 @@ body .search-modal .close:hover {
     transform: none;
   }
 }
+
+
+.logo-img {
+		width: 186px;
+}

@@ -10,20 +10,12 @@
                               <div class="textwidget pb-30"><p>Sedut perspiciatis unde omnis iste natus error sitlutem acc usantium doloremque denounce with illo inventore veritatis</p>
                               </div>
                               <ul class="footer-social md-mb-30">  
-                                  <li> 
-                                      <a href="#" target="_blank"><span><i class="fa fa-facebook"></i></span></a> 
-                                  </li>
-                                  <li> 
-                                      <a href="# " target="_blank"><span><i class="fa fa-twitter"></i></span></a> 
-                                  </li>
-
-                                  <li> 
-                                      <a href="# " target="_blank"><span><i class="fa fa-pinterest-p"></i></span></a> 
-                                  </li>
-                                  <li> 
-                                      <a href="# " target="_blank"><span><i class="fa fa-instagram"></i></span></a> 
-                                  </li>
-                                                                           
+                                  <li><a href="https://www.facebook.com/GrootSoftware/" target="_blank"><i class="fa fa-facebook"></i></a></li>
+                                            <li><a href="https://twitter.com/grootsoftwa" target="_blank"><i class="fa fa-twitter"></i></a></li>
+                                            <li><a href="https://github.com/grootsoftware" target="_blank"><i class="fa fa-git"></i></a></li>
+                                            <li><a href="https://www.instagram.com/grootsoftware/" target="_blank"><i class="fa fa-instagram"></i></a></li>
+                                            <li><a href="https://www.linkedin.com/in/grootsoftware/" target="_blank"><i class="fa fa-linkedin"></i></a></li>
+                                            <li><a href="https://stackoverflow.com/c/grootsoftware/" target="_blank"><i class="fa fa-stack-overflow"></i></a></li>                                                         
                               </ul>
                         </div>
                         <div class="col-lg-3 col-md-12 col-sm-12 pl-45 md-pl-15 md-mb-30">
@@ -41,24 +33,24 @@
                             <ul class="address-widget">
                                 <li>
                                     <i class="flaticon-location"></i>
-                                    <div class="desc">374 FA Tower, William S Blvd 2721, IL, USA</div>
+                                    <div class="desc"> 48, Sultan Nagar, Jaipur, Rajasthan 302019 </div>
                                 </li>
                                 <li>
                                     <i class="flaticon-call"></i>
                                     <div class="desc">
-                                       <a href="tel:(+880)155-69569">(+880)155-69569</a>
+                                       <a href="tel:+917790847091">+91-7790847091</a>
                                     </div>
                                 </li>
                                 <li>
                                     <i class="flaticon-email"></i>
                                     <div class="desc">
-                                        <a href="mailto:support@rstheme.com">support@rstheme.com</a>
+                                        <a href="mailto:info@grootsoftware.com">info@grootsoftware.com</a>
                                     </div>
                                 </li>
                                 <li>
                                     <i class="flaticon-clock-1"></i>
                                     <div class="desc">
-                                        Opening Hours: 10:00 - 18:00   
+                                        Opening Hours: 8:00AM - 9:00PM   
                                     </div>
                                 </li>
                             </ul>
@@ -89,7 +81,7 @@
                         </div>
                         <div class="col-lg-6">
                             <div class="copyright">
-                                <p>&copy; 2021 All Rights Reserved. Developed By <a href="#"></a></p>
+                                <p>&copy; 2021 All Rights Reserved. Developed By <a href="http://grootsoftware.com/">GrootSoftware Pvt. Ltd.</a></p>
                             </div>
                         </div>
                     </div>

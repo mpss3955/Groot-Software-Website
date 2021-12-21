@@ -43,9 +43,10 @@
     .logo-img {
       width: 186px;
     }
-    .menu_thumbnail{
+
+    .menu_thumbnail {
       width: 70% !important;
-    } 
+    }
   </style>
   <!--[if lt IE 9]>
             <script src="https://oss.maxcdn.com/html5shiv/3.7.2/html5shiv.min.js"></script>
@@ -127,10 +128,10 @@
                     <i class="fa fa-arrow-down"></i>
                   </span>
                 </a>
-                <div class="sub-menu">
+                <div class="sub-menu ">
                   <!-- item -->
-                  <div class="sub-menu-item">
-                    <img class="img-thumbnail" class="menu_thumbnail" src="assets/images/menu/AI_products_thumbnail.png"/><br/>
+                  <div class="sub-menu-item picdimantion">
+                    <img class="img-thumbnail" class="menu_thumbnail" src="assets/images/menu/AI_products_thumbnail.png" /><br />
                     <b>AI Products</b>
                     <!-- <ul>
                       <li><a href="#">cell phones & accessories</a></li>
@@ -141,30 +142,30 @@
                     </ul>-->
                   </div>
                   <!-- end of item -->
-                   <!-- item -->
+                  <!-- item -->
                   <!-- end of item -->
-                   <!-- item -->
-                   <div class="sub-menu-item">
-                    <img class="img-thumbnail" class="menu_thumbnail"  src="assets/images/menu/NFT-Marketplace-solution.png"><br/>
+                  <!-- item -->
+                  <div class="sub-menu-item picdimantion">
+                    <img class="img-thumbnail" class="menu_thumbnail" src="assets/images/menu/NFT-Marketplace-solution.png"><br />
                     <b>NFT Marketplace</b>
 
                   </div>
                   <!-- end of item -->
-                   <!-- item -->
-                   <div class="sub-menu-item">
-                    <img class="img-thumbnail" class="menu_thumbnail"  src="assets/images/menu/NFT-Marketplace-solution.png"><br/>
+                  <!-- item -->
+                  <div class="sub-menu-item picdimantion">
+                    <img class="img-thumbnail" class="menu_thumbnail" src="assets/images/menu/NFT-Marketplace-solution.png"><br />
                     <b>NFT Marketplace</b>
 
                   </div>
                   <!-- end of item -->
-                   <!-- item -->
-                   <div class="sub-menu-item">
-                    <img class="img-thumbnail" class="menu_thumbnail"  src="assets/images/menu/nft_gaming_menu.png"/><br/>
+                  <!-- item -->
+                  <div class="sub-menu-item picdimantion">
+                    <img class="img-thumbnail" class="menu_thumbnail" src="assets/images/menu/nft_gaming_menu.png" /><br />
                     <b>NFT Gaming Marketplace</b>
 
                   </div>
-                  <div class="sub-menu-item">
-                    <img class="img-thumbnail" class="menu_thumbnail"  src="assets/images/menu/oracle_implementation_solution_thumbnail.png"/><br/>
+                  <div class="sub-menu-item picdimantion  ">
+                    <img class="img-thumbnail" class="menu_thumbnail" src="assets/images/menu/oracle_implementation_solution_thumbnail.png" /><br />
                     <b>Oracle Implementation Solution</b>
 
                   </div>
@@ -219,7 +220,7 @@
               </li>
               <li>
                 <a href="#" class="menu-link">
-                Industries
+                  Industries
 
                   <span class="drop-icon">
                     <i class="fa fa-arrow-down"></i>

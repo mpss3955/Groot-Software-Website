@@ -10106,7 +10106,8 @@ body .search-modal .close:hover {
   }
 }
 
-
 .logo-img {
 		width: 186px;
 }
+.picdimantion img{ width: 242px; height: 150px;}
+.picdimantion { padding-left: 6px;}

@@ -108,7 +108,7 @@ body{
 .sub-menu-item{
     padding-left: 1.2rem;
 }
-.sub-menu-item:nth-child(3){
+/* .sub-menu-item:nth-child(3){
     background: #ddd;
     display: flex;
     flex-direction: column;
@@ -139,7 +139,7 @@ body{
     width: 50%;
     margin: 0 auto;
     padding: 2rem 0;
-}
+} */
 
 /* header */
 .header{
@@ -238,10 +238,10 @@ body{
     .sub-menu-item{
         padding-left: 0;
     }
-    .sub-menu-item:nth-child(3){
+    /* .sub-menu-item:nth-child(3){
         padding-left: 2rem;
         padding-right: 2rem;
-    }
+    } */
 
     /* header */
     .header{

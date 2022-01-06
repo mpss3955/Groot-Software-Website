@@ -4,10 +4,10 @@
             <div class="rs-banner style4">
                 <div class="container">
                     <div class="banner-content">
-                        <span class="sub-title">Technology & It Solutions </span>
-                       <h1 class="title">Excellent IT services for your success</h1>
+                        <span class="sub-title">One Destination for all your digital development </span>
+                       <h1 class="title">Software development and web devlopment company</h1>
                         <p class="desc">
-                            We are Leading Technology Solutions Providing Company all over the world doing over 40 years.
+                            Groot Software is a team of professional programmers and developers who hold expertise in all type of digital development including software, app and web development.
                         </p>
                         <ul class="banner-btn">
                             <li><a class="readon discover" href="about.php">Discover More</a></li>
@@ -32,10 +32,10 @@
                     <div class="sec-title2 text-center mb-45">
                         <span class="sub-text">Services</span>
                         <h2 class="title">
-                           Our Featured Services
+                           Our Major Services
                         </h2>
                         <div class="desc desc-text">
-                            We are working in IT services for 40 years and developing software applications and mobile apps for clients all over the world.
+                            We can develop various sort of digital produts using different programming language of your choice. Our major areas of services includes but is not limited to
                         </div>
                     </div>
                     <div class="row">
@@ -45,12 +45,12 @@
                                     <img src="assets/images/services/style4/1.png" alt="">
                                 </div>
                                 <div class="services-content">
-                                    <h2 class="title"><a href="web-development.php">Warranty Management IT</a></h2>
+                                    <h2 class="title"><a href="web-development.php">Software Developement</a></h2>
                                     <p class="desc">
-                                        We denounce with righteous indignation and dislike men who are so beguiled and demoralized by the charms.
+                                        Our professional developers are experienced in developing different types of software programs including offline and online (SAAS) software applications.
                                     </p>
                                     <div class="services-btn2">
-                                        <a href="web-development.php">Read More</a>
+                                        <a href="web-development.php">Know More</a>
                                     </div>
                                 </div>
                             </div>
@@ -61,12 +61,12 @@
                                     <img src="assets/images/services/style4/2.png" alt="">
                                 </div>
                                 <div class="services-content">
-                                    <h2 class="title"><a href="web-development.php">Product Control Services</a></h2>
+                                    <h2 class="title"><a href="web-development.php">Web Development</a></h2>
                                     <p class="desc">
-                                        We denounce with righteous indignation and dislike men who are so beguiled and demoralized by the charms.
+                                        If you are planning to start an online business or website, we have professionals who can fulfill your requirements efficiently.
                                     </p>
                                     <div class="services-btn2">
-                                        <a href="web-development.php">Read More</a>
+                                        <a href="web-development.php">Know More</a>
                                     </div>
                                 </div>
                             </div>
@@ -77,12 +77,12 @@
                                     <img src="assets/images/services/style4/3.png" alt="">
                                 </div>
                                 <div class="services-content">
-                                    <h2 class="title"><a href="web-development.php">Quality Control System</a></h2>
+                                    <h2 class="title"><a href="web-development.php">Native App Developement</a></h2>
                                     <p class="desc">
-                                        We denounce with righteous indignation and dislike men who are so beguiled and demoralized by the charms.
+                                        In case you need a mobile app to be developed, our experts can develop for both android or iOS systems.
                                     </p>
                                     <div class="services-btn2">
-                                        <a href="web-development.php">Read More</a>
+                                        <a href="web-development.php">Know More</a>
                                     </div>
                                 </div>
                             </div>
@@ -98,15 +98,15 @@
                     <div class="row align-items-center">
                         <div class="col-lg-5">
                             <div class="sec-title2 mb-30">
-                                <div class="sub-text">Our Company</div>
+                                <div class="sub-text">About Groot Software</div>
                                 <h2 class=" title title3 pb-20">
-                                    We’ve been triumphing all these 40 years.
+                                    Proudly emerged as a renowned name in the industry in the short time since arrival.
                                 </h2>
                                 <div class="desc desc2">
-                                    Bring to the table win-win survival strategies done to ensure dotted proactive domination. Customers we can for done working a new normal that has evolved from generation on the runway heading towards a streamlined. Now you will be able to insert any section template to your live site instantly.
+                                    We only started a few years ago, but the expertise, dedication, and consistency of our team helped us earn a reputation among acclaimed software development companies of India and the US.
                                 </div>
                                 <div class="btn-part mt-40">
-                                    <a class="readon discover more" href="contact.php">Learn More</a>
+                                    <a class="readon discover more" href="contact.php">About Us</a>
                                 </div>
                             </div>
                         </div>
@@ -138,13 +138,13 @@
                         <div class="col-lg-3 md-pb-40">
                            <div class="box">
                                <div class="chart" data-percent="80" data-scale-color="#ffb400"><span>80%</span></div>
-                               <h2 class="title">Success of Works</h2>
+                               <h2 class="title">Successfully Completed Projects</h2>
                            </div> 
                         </div>
                         <div class="col-lg-3 md-pb-40">
                            <div class="box">
                                <div class="chart" data-percent="76" data-scale-color="#ffb400"><span>76%</span></div>
-                               <h2 class="title">Works on Hand</h2>
+                               <h2 class="title">Current Projects</h2>
                            </div> 
                         </div>
                         <div class="col-lg-3">
@@ -162,9 +162,9 @@
             <div class="rs-services style4 modify1 gray-color pt-110 pb-120 md-pt-75 md-pb-40 sm-pb-70">
                 <div class="container">
                     <div class="sec-title2 text-center mb-45">
-                        <span class="sub-text">Our Latest Services</span>
+                        <span class="sub-text">Some programming languages we are expert in.</span>
                         <h2 class="title">
-                           Preparing for your success, we provide IT solutions
+                           You can trust us with your projects in any of the following programming languages.
                         </h2>
                     </div>
                     <div class="row">
@@ -174,9 +174,9 @@
                                     <img src="assets/images/services/style5/1.png" alt="">
                                 </div>
                                 <div class="services-content">
-                                    <h2 class="title"><a href="web-development.php">IT Management</a></h2>
+                                    <h2 class="title"><a href="web-development.php">PHP</a></h2>
                                     <p class="desc">
-                                        We denounce with rightous indig nationand dislike men who are so beguiled demoralized
+                                        We have programmers who can deliver your PHP programming project in no time.
                                     </p>
                                     <div class="services-btn2">
                                         <a href="web-development.php">Read More</a>
@@ -190,9 +190,9 @@
                                     <img src="assets/images/services/style5/2.png" alt="">
                                 </div>
                                 <div class="services-content">
-                                    <h2 class="title"><a href="web-development.php">IT Consulting</a></h2>
+                                    <h2 class="title"><a href="web-development.php">Java Programming</a></h2>
                                     <p class="desc">
-                                        We denounce with rightous indig nationand dislike men who are so beguiled demoralized
+                                        We have programmers who can deliver your Java programming project in no time.
                                     </p>
                                     <div class="services-btn2">
                                         <a href="web-development.php">Read More</a>
@@ -206,9 +206,9 @@
                                     <img src="assets/images/services/style5/3.png" alt="">
                                 </div>
                                 <div class="services-content">
-                                    <h2 class="title"><a href="web-development.php">Data Security</a></h2>
+                                    <h2 class="title"><a href="web-development.php">React JS</a></h2>
                                     <p class="desc">
-                                        We denounce with rightous indig nationand dislike men who are so beguiled demoralized
+                                        We have programmers who can deliver your React JS programming project in no time.
                                     </p>
                                     <div class="services-btn2">
                                         <a href="web-development.php">Read More</a>
@@ -222,9 +222,9 @@
                                     <img src="assets/images/services/style5/4.png" alt="">
                                 </div>
                                 <div class="services-content">
-                                    <h2 class="title"><a href="web-development.php">Infrastructure Plan</a></h2>
+                                    <h2 class="title"><a href="web-development.php">Angular </a></h2>
                                     <p class="desc">
-                                        We denounce with rightous indig nationand dislike men who are so beguiled demoralized
+                                        We have programmers who can deliver your Angular programming project in no time.
                                     </p>
                                     <div class="services-btn2">
                                         <a href="web-development.php">Read More</a>
@@ -238,9 +238,9 @@
                                     <img src="assets/images/services/style5/5.png" alt="">
                                 </div>
                                 <div class="services-content">
-                                    <h2 class="title"><a href="web-development.php">IT Design</a></h2>
+                                    <h2 class="title"><a href="web-development.php">HTML/CSS</a></h2>
                                     <p class="desc">
-                                        We denounce with rightous indig nationand dislike men who are so beguiled demoralized
+                                        We have programmers who can deliver your HTML/CSS programming project in no time.
                                     </p>
                                     <div class="services-btn2">
                                         <a href="web-development.php">Read More</a>
@@ -254,9 +254,9 @@
                                     <img src="assets/images/services/style5/6.png" alt="">
                                 </div>
                                 <div class="services-content">
-                                    <h2 class="title"><a href="web-development.php">Software Engineering</a></h2>
+                                    <h2 class="title"><a href="web-development.php">WordPress</a></h2>
                                     <p class="desc">
-                                        We denounce with rightous indig nationand dislike men who are so beguiled demoralized
+                                        We have programmers who can deliver your WordPress programming project in no time.
                                     </p>
                                     <div class="services-btn2">
                                         <a href="web-development.php">Read More</a>
@@ -275,10 +275,10 @@
                     <div class="sec-title2 text-center">
                         <span class="sub-text white-color">Let’s Talk</span>
                         <h2 class="title title4 white-color">
-                           We run add kinds of IT services that grow your success
+                           Got a project? Let's get you connected with our experts and make your vision a reality.
                         </h2>
                         <div class="call-btn mt-30">
-                            <a class="readon discover started" href="contact.php">Get Started</a>
+                            <a class="readon discover started" href="contact.php">Get in Touch</a>
                         </div>
                     </div> 
                 </div>
@@ -294,10 +294,10 @@
                                 <div class="sec-title mb-30">
                                     <div class="sub-text new">How We Works</div>
                                     <h2 class="title title4 white-color pb-20">
-                                        How braintech assist your business
+                                        How Groot Software can help your business
                                     </h2>
                                     <div class="desc white-color">
-                                        Bring to the table win-win survival strategies to ensure dotted proactive domination. At the end of the day, on going forward, anew normal that has evolved from the generation on streamlined.
+                                        When you trust us with your digital venture, it becomes our responsibility to fulfill your requirements and provide you the best output possible. Here's an overview of how it works.
                                     </div>
                                     <div class="btn-part mt-40">
                                         <a class="readon discover started" href="contact.php">Learn More</a>
@@ -314,9 +314,9 @@
                                                 01
                                             </div>
                                             <div class="number-title">
-                                                <h3 class="title">Discussion</h3>
+                                                <h3 class="title">Discussing The Ideas & Concepts</h3>
                                             </div>
-                                            <p class="number-txt">Quisque placerat vitae lacus ut scelerisque. Fusce luctus odio ac nibh theo lacus egestas.</p>
+                                            <p class="number-txt">Ofcourse it begins with you describing us the vision that you have regarding the project.</p>
                                         </div>
                                     </div>
                                 </div>
@@ -327,9 +327,9 @@
                                                 02
                                             </div>
                                             <div class="number-title">
-                                                <h3 class="title">Testing & Trying</h3>
+                                                <h3 class="title">Deciding the Technology and Plan</h3>
                                             </div>
-                                            <p class="number-txt">Quisque placerat vitae lacus ut scelerisque. Fusce luctus odio ac nibh theo lacus egestas.</p>
+                                            <p class="number-txt">Our experts then process the information and prepare a blueprint accordingly.</p>
                                         </div>
                                     </div>
                                 </div>
@@ -340,7 +340,7 @@
                                                 03
                                             </div>
                                             <div class="number-title">
-                                                <h3 class="title">Ideas & Concepts</h3>
+                                                <h3 class="title">Testing & Trying</h3>
                                             </div>
                                             <p class="number-txt">Quisque placerat vitae lacus ut scelerisque. Fusce luctus odio ac nibh theo lacus egestas.</p>
                                         </div>
@@ -415,7 +415,7 @@
                                         </div>
                                         <div class="project-content">
                                             <div class="portfolio-inner">
-                                                <h3 class="title"><a href="case-studies-single.php">latform Integration</a></h3>
+                                                <h3 class="title"><a href="case-studies-single.php">Platform Integration</a></h3>
                                                 <span class="category"><a href="case-studies-style1.php">IT Technology</a></span>
                                             </div>
                                         </div>

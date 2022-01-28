@@ -40,7 +40,7 @@
   <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css">
   <link rel="stylesheet" type="text/css" href="/assets/css/new.css">
   <style type="text/css">
-    .logo-img {
+    .groot-logo-img {
       width: 186px;
     }
 
@@ -59,7 +59,8 @@
     display: inline-block;
     text-align: center;
 }
-    }
+    
+    
   </style>
   <!--[if lt IE 9]>
             <script src="https://oss.maxcdn.com/html5shiv/3.7.2/html5shiv.min.js"></script>
@@ -122,7 +123,7 @@
         <!-- Menu Start -->
         <nav class="rizwan">
           <div class="brand-and-icon">
-            <a href="index.php" class="navbar-brand"><img class="logo-img" src="assets/images/logo-dark.png" /></a>
+            <a href="index.php" class="navbar-brand"><img class="groot-logo-img" src="assets/images/logo-dark.png" /></a>
             <button type="button" class="navbar-toggler">
               <i class="fas fa-bars"></i>
             </button>

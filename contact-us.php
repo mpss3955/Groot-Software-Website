@@ -29,8 +29,8 @@
                                        <i class="fa fa-home"></i>
                                    </div>
                                    <div class="address-text">
-                                        <span class="label">Email:</span>
-                                        <a href="tel:123222-8888">(123) 222-8888</a>
+                                        <span class="label">Phone:</span>
+                                        <a href="tel:+91-7790847091">+91-7790847091</a>
                                    </div>
                                </div>
                                <div class="address-box mb-25">
@@ -38,8 +38,8 @@
                                        <i class="fa fa-phone"></i>
                                    </div>
                                    <div class="address-text">
-                                       <span class="label">Phone:</span>
-                                       <a href="#">support@rstheme.com</a>
+                                       <span class="label">Email:</span>
+                                       <a href="mailto:info@grootsoftware.com">info@grootsoftware.com</a>
                                    </div>
                                </div>
                                <div class="address-box">
@@ -48,7 +48,7 @@
                                    </div>
                                    <div class="address-text">
                                        <span class="label">Address:</span>
-                                       <div class="desc">New Jesrsy, 1201, USA</div>
+                                       <div class="desc"> 73, 34, Paramhans Marg, Mansarovar Sector 7, Agarwal Farm, Barh Devariya, Mansarovar, Jaipur, Rajasthan 302020</div>
                                    </div>
                                </div>
                            </div>
@@ -61,7 +61,7 @@
 
                                </div>
                                 <div id="form-messages"></div>
-                                <form id="contact-form" method="post" action="https://rstheme.com/products/html/braintech/mailer.php">
+                                <form id="contact-form" method="post" action="contact-us.php">
                                     <fieldset>
                                         <div class="row">
                                             <div class="col-lg-6 mb-30 col-md-6 col-sm-6">
@@ -93,8 +93,9 @@
                     </div>
                 </div>
                 <div class="map-canvas pt-120 md-pt-80">
-                    <iframe src="https://maps.google.com/maps?q=rstheme&amp;t=&amp;z=13&amp;ie=UTF8&amp;iwloc=&amp;output=embed"></iframe>
-                </div> 
+                    <!-- <iframe src="https://maps.google.com/maps?q=rstheme&amp;t=&amp;z=13&amp;ie=UTF8&amp;iwloc=&amp;output=embed"></iframe> -->
+                        <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3644149.884880852!2d73.52783886249998!3d26.879996600000002!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x396db5e9425b2f0d%3A0xaee746550ac60d0c!2sGroot%20Software!5e0!3m2!1sen!2sin!4v1643348767350!5m2!1sen!2sin" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy"></iframe>
+                    </div> 
             </div>
             <!-- Contact Section Start -->
 

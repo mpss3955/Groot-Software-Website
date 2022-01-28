@@ -39,13 +39,26 @@
   <link rel="stylesheet" type="text/css" href="assets/css/menu.css">
   <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css">
   <link rel="stylesheet" type="text/css" href="/assets/css/new.css">
-  <style>
+  <style type="text/css">
     .logo-img {
       width: 186px;
     }
 
     .menu_thumbnail {
       width: 70% !important;
+    }
+    .quote-btn-wide{
+      font-size: 14px;
+    background-image: linear-gradient(90deg, #708409 0%, #b7d327 100%);
+    padding: 13px 22px;
+    border-radius: 3px;
+    color: #fff;
+    font-weight: 500;
+    margin-top: 10%;
+    width: 160px !important;
+    display: inline-block;
+    text-align: center;
+}
     }
   </style>
   <!--[if lt IE 9]>
@@ -117,6 +130,59 @@
 
           <div class="navbar-collapse">
             <ul class="navbar-bar">
+
+              <li>
+                <a href="#" class="menu-link">
+                  Why Groot
+
+                  <span class="drop-icon">
+                    <i class="fa fa-arrow-down"></i>
+                  </span>
+                </a>
+                <div class="sub-menu">
+                  <!-- item -->
+                  <div class="sub-menu-item">
+                    <h5>ABOUT US</h5>
+                    <ul>
+                      <li><a href="about-us.php">Company Profile</a></li>
+                      <li><a href="groot-infrastructure.php">Infrastructure</a></li>
+                      <li><a href="">Life @ Groot</a></li>
+                      <li><a href="groot-partnership-programs.php">Partnership</a></li>
+                    </ul>
+                  </div>
+                  <!-- end of item -->
+                  <!-- item -->
+                  <div class="sub-menu-item">
+                    <h4>AWARDS</h4>
+                    <ul>
+                      <li><a href="our-strategic-alliance.php">Alliances</a></li>
+                      <li><a href="industry-ranking-and-awards.php">Awards</a></li>
+                      <li><a href="groot-software-testimonials.php">Testimonials</a></li>
+                      <li><a href="our-portfolio.php">Portfolio</a></li>
+                    </ul>
+                  </div>
+                  <!-- end of item -->
+                  <!-- item -->
+                  <div class="sub-menu-item">
+                    <h5>RESOURCES</h5>
+                    <ul>
+                      <li><a href="blog.php">Blog</a></li>
+                      <li><a href="career-at-groot-software.php">Career @ Groot</a></li>
+                      <li><a href="contact-us.php">Contact Us</a></li>
+                      <li><a href="#">Get a Quote</a></li>
+                    </ul>
+                  </div>
+                  <!-- end of item -->
+                  <!-- item -->
+                  <div class="sub-menu-item">
+                    <ul>
+                      <li><a class="quote-btn-wide" href="career-at-groot-software.php">Join Us</a></li>
+                      <li><a  class="quote-btn-wide" href="#">Internship Programs</a></li>
+                    </ul>
+                  </div>
+                  <!-- end of item -->
+
+              </li>
               <li>
                 <a href="#" class="menu-link">
                   Products
@@ -477,13 +543,7 @@
                 </div>
               </li>
               <li>
-                <a href="#">Insights</a>
-              </li>
-              <li>
                 <a href="our-portfolio.php">PORTFOLIO</a>
-              </li>
-              <li>
-                <a href="about-us.php">About</a>
               </li>
               <li>
                 <a href="contact-us.php">Contact Us</a>

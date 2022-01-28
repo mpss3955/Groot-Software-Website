@@ -240,6 +240,72 @@
               </li>
               <li>
                 <a href="#" class="menu-link">
+                  SEO/SMO/PPC
+                  <span class="drop-icon">
+                    <i class="fa fa-arrow-down"></i>
+                  </span>
+                </a>
+                <div class="sub-menu">
+                  <!-- item -->
+                  <div class="sub-menu-item">
+                    <h5><a href="seo-company-in-jaipur.php">SEO Services</a></h5>
+                    <ul>
+                      <li><a href="seo-company-in-jaipur.php">Search Engine Optimization</a></li>
+                      <li><a href="keyword-analysis-strategy-company-jaipur.php">Keyword Analysis</a></li>
+                      <li><a href="on-page-optimization-services-jaipur.php">On Page Optimization Services</a></li>
+                      <li><a href="off-page-optimization-services-jaipur.php">Off Page Optimization Services</a></li>
+                      <li><a href="international-global-seo-company.php">international/Global SEO</a></li>
+                      <li><a href="local-search-optimization-company-jaipur.php">Local Search Optimization</a></li>
+                      <li><a href="local-business-listing-services-jaipur.php">Local Business Listing Services</a></li>
+                      <li><a href="reputation-management-company-jaipur.php">Reputation management</a></li>
+                      <li><a href="content-writing-in-jaipur.php">Content Writing</a></li>
+                      <li><a href="video-promotion-service-and-video-marketing-company-jaipur.php">Video Promotion</a></li>
+                      <li><a href="seo-outsourcing-company-in-jaipur.php">Seo Outsourcing</a></li>
+                      <li><a href="review-rating-provider-services-jaipur.php">Reviews and Ratings</a></li>
+                    </ul>
+                  </div>
+                  <!-- end of item -->
+                  <!-- item -->
+                  <div class="sub-menu-item">
+                    <h4><a href="social-media-marketing-company-jaipur.php">SMM</a></h4>
+                    <ul>
+                      <li><a href="social-media-marketing-company-jaipur.php">Social Media Marketing</a></li>
+                      <li><a href="social-media-management-company-jaipur.php">Social Media Management</a></li>
+                      <li><a href="brand-management-services-jaipur.php">Brand Management</a></li>
+                      <li><a href="facebook-marketing-company-jaipur.php">Facebook Marketing</a></li>
+                      <li><a href="twitter-marketing-company-jaipur.php">Twitter Marketing</a></li>
+                      <li><a href="youtube-marketing-company-jaipur.php">Youtube Marketing</a></li>
+                      <li><a href="instagram-marketing-company-jaipur.php">Instagram Marketing</a></li>
+                    </ul>
+                  </div>
+                  <!-- end of item -->
+                  <!-- item -->
+                  <div class="sub-menu-item">
+                    <h5><a href="software-consulting.php">PPC</a></h5>
+                    <ul>
+                      <li><a href="google-adwords-management-company-jaipur.php">Google Adwords</a></li>
+                      <li><a href="facebook-paid-advertising-company-in-jaipur.php">Facebook Paid Advertising</a></li>
+                      <li><a href="android-app-marketing-company-in-jaipur.php">Android App Marketing(CPI)</a></li>
+                      <li><a href="ios-app-marketing-company-in-jaipur.php">ios App Marketing(CPI)</a></li>
+                      <li><a href="ppc-management-services-in-jaipur.php">Pay Per Click(PPC)</a></li>
+                    </ul>
+                  </div>
+                  <!-- end of item -->
+                  <!-- item -->
+                  <div class="sub-menu-item">
+                    <h5>PACKAGES</h5>
+                    <ul>
+                      <li><a href="seo-packages.php">SEO Packages</a></li>
+                      <li><a href="smo-packages.php">SMO Packages</a></li>
+                      <li><a href="ppc-packages.php">PPC Packages</a></li>
+                      <li><a href="plan-n-pricing.php">Digital Marketing Packages</a></li>
+                    </ul>
+                  </div>
+                  <!-- end of item -->
+
+              </li>
+              <li>
+                <a href="#" class="menu-link">
                   Solutions
 
                   <span class="drop-icon">
@@ -422,9 +488,9 @@
               <li>
                 <a href="contact-us.php">Contact Us</a>
               </li>
-              <li>
+              <!-- <li>
                 <a style="font-size: 14px; background-image: linear-gradient(90deg, #708409 0%, #b7d327 100%); padding: 13px 22px; border-radius: 3px; color: #fff; font-weight: 500; margin-top: 10%;" class="quote-btn" href="#">Get A Quote</a>
-              </li>
+              </li> -->
             </ul>
           </div>
         </nav>

@@ -55,7 +55,7 @@
     color: #fff;
     font-weight: 500;
     margin-top: 10%;
-    width: 160px !important;
+    width: 200px !important;
     display: inline-block;
     text-align: center;
 }
@@ -169,7 +169,7 @@
                       <li><a href="blog.php">Blog</a></li>
                       <li><a href="career-at-groot-software.php">Career @ Groot</a></li>
                       <li><a href="contact-us.php">Contact Us</a></li>
-                      <li><a href="#">Get a Quote</a></li>
+                      <li><a href="get-a-quote.php">Get a Quote</a></li>
                     </ul>
                   </div>
                   <!-- end of item -->
@@ -177,7 +177,7 @@
                   <div class="sub-menu-item">
                     <ul>
                       <li><a class="quote-btn-wide" href="career-at-groot-software.php">Join Us</a></li>
-                      <li><a  class="quote-btn-wide" href="#">Internship Programs</a></li>
+                      <li><a  class="quote-btn-wide" href="groot-software-internship-programs.php">Our Internship Programs</a></li>
                     </ul>
                   </div>
                   <!-- end of item -->

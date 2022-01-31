@@ -3,11 +3,12 @@
             <div class="footer-top">
                 <div class="container">
                     <div class="row">
-                        <div class="col-lg-3 col-md-12 col-sm-12 footer-widget">
+                        <div class="col-lg-6 col-md-12 col-sm-12 footer-widget">
                             <div class="footer-logo mb-30">
                                 <a href="index.php"><img src="assets/images/logo-dark.png" alt=""></a>
                             </div>
-                              <div class="textwidget pb-30"><p>Sedut perspiciatis unde omnis iste natus error sitlutem acc usantium doloremque denounce with illo inventore veritatis</p>
+                              <div class="textwidget pb-30"><p>SERVING IN 70+ COUNTRIES FOR WEB, SOFTWARE AND MOBILE APP DEVELOPMENT
+United States (USA), United Kingdom (UK), Singapore, Kenya, South Africa, Germany, Canada, Australia, Netherlands, Norway, United Arab Emirates (UAE), Finland etc.</p>
                               </div>
                               <ul class="footer-social md-mb-30">  
                                   <li><a href="https://www.facebook.com/GrootSoftware/" target="_blank"><i class="fa fa-facebook"></i></a></li>
@@ -22,10 +23,10 @@
                             <h3 class="widget-title">IT Services</h3>
                             <ul class="site-map">
                                 <li><a href="software-development.php">Software Development</a></li>
-                                <li><a href="web-development.php">Web Development</a></li>
+                                <li><a href="web-development-services.php">Web Development</a></li>
                                 <li><a href="analytic-solutions.php">Analytic Solutions</a></li>
-                                <li><a href="web-development.php">Cloud and DevOps</a></li>
-                                <li><a href="web-development.php">Product Design</a></li>
+                                <li><a href="cloud-and-devOps-services.php">Cloud and DevOps</a></li>
+                                <li><a href="product-design-services.php">Product Design</a></li>
                             </ul>
                         </div>
                         <div class="col-lg-3 col-md-12 col-sm-12 md-mb-30">
@@ -55,7 +56,8 @@
                                 </li>
                             </ul>
                         </div>
-                        <div class="col-lg-3 col-md-12 col-sm-12">
+                        <!-- News Latter -->
+                        <!-- <div class="col-lg-3 col-md-12 col-sm-12">
                             <h3 class="widget-title">Newsletter</h3>
                             <p class="widget-desc">We denounce with righteous and in and dislike men who are so beguiled and demo realized.</p>
                             <p>
@@ -63,7 +65,8 @@
                                 <em class="paper-plane"><input type="submit" value="Sign up"></em>
                                 <i class="flaticon-send"></i>
                             </p>
-                        </div>
+                        </div> -->
+                        <!-- News Latter -->
                     </div>
                 </div>
             </div>
